@@ -1,3 +1,4 @@
+<?
 #   ```mermaid  
 # ---  
 # title: "Aiven Thanos Current Architecture"  
@@ -19,3 +20,4 @@
 #   
 # %% Mermaid Flow Diagram   
 # ```  
+?>
